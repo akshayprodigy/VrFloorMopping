@@ -1,0 +1,41 @@
+fileFormatVersion: 2
+guid: 82ebae57f296bc94093a5fa9d4a87d57
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cameraOVR: {fileID: 100004, guid: 126d619cf4daa52469682f85c1378b4a, type: 3}
+  - teleportarea: {instanceID: 0}
+  - fadecame: {instanceID: 0}
+  - entrancevraudio: {instanceID: 0}
+  - entrancevraudio1: {instanceID: 0}
+  - mainButtons: {instanceID: 0}
+  - enableconceptairteleportbutton: {instanceID: 0}
+  - ourAudioSource: {instanceID: 0}
+  - conceptAirButtoninteract: {instanceID: 0}
+  - removeglass: {instanceID: 0}
+  - blueLight: {instanceID: 0}
+  - particles: {instanceID: 0}
+  - smallparticle: {instanceID: 0}
+  - smokeParticle: {instanceID: 0}
+  - audio1: {instanceID: 0}
+  - audio2: {instanceID: 0}
+  - audio3: {instanceID: 0}
+  - particlesmainPanel: {instanceID: 0}
+  - viableparticleaudiosource: {instanceID: 0}
+  - viableparticlebutton: {instanceID: 0}
+  - nonviableparticlebutton: {instanceID: 0}
+  - nonviableparticleaudiosource: {instanceID: 0}
+  - NonViableaudio1: {instanceID: 0}
+  - NonViableaudio2: {instanceID: 0}
+  - NonViableaudio3: {instanceID: 0}
+  - NonViableaudio4: {instanceID: 0}
+  - NonViableaudio5: {instanceID: 0}
+  - NonViableaudio6: {instanceID: 0}
+  - NonViableaudio7: {instanceID: 0}
+  - letscontinuebuttoninnonviableparticle: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

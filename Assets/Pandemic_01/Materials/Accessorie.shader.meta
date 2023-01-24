@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 61bfa99dfbd278d4ab8258a3644cf2dc
+timeCreated: 1573748937
+licenseType: Store
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _T_GANG_FEM_01_N: {fileID: 2800000, guid: 15aaa3a02d92ee247b9b9fba12a4997b, type: 3}
+  - _T_GANG_FEM_01_BC: {fileID: 2800000, guid: 4aac318c38e5e2a4a8dd18fa2e97a486, type: 3}
+  - _T_Pandemic01_E: {fileID: 2800000, guid: f48619442b2c8b6499c29369bcde3f01, type: 3}
+  - _T_GANG_FEM_01_ORM: {fileID: 2800000, guid: 7e400a0fb89ce8942b351db4f47bd8e6,
+      type: 3}
+  - _T_Pandemic01_Opacity: {fileID: 2800000, guid: 56ae01627d0e488419c4d2b63b3b1faf,
+      type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

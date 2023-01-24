@@ -1,0 +1,16 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 05.02.2021 08:45:49
+
+newmtl flagella
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.4431 0.4941 0.5922
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_bump E:\_T U R B O   S Q U I D  &  CG Trader -BAK  29  JAN  2021\_FL\Virus_02\vibu.jpg
+	bump E:\_T U R B O   S Q U I D  &  CG Trader -BAK  29  JAN  2021\_FL\Virus_02\vibu.jpg
